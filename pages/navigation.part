@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <title>Home Page!</title>
-<body>
-
-<h1>Home</h1>
-  <p>This is the home of the site</p>
-
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/about">About</a></li>
     <li><a href="/third">Third page</a></li>
   </ul>
-</body>
-</html>

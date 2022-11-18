@@ -21,3 +21,7 @@ end
 get '/about' do
     get_page './pages/about.html'
 end
+
+get '/third' do
+  get_page './pages/third.html'
+end
